@@ -1,1 +1,1 @@
-Pascal's triangle code
+Pascals triangle code
